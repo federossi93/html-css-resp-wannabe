@@ -169,4 +169,20 @@ img {
     margin:  100px auto;
     
 }
+
+body{
+    background: rgb(35,41,70);
+background: linear-gradient(180deg, rgba(35,41,70,1) 0%, rgba(34,34,34,1) 100%);
+}
+
+.why-us{
+    background-color:#222222; ;
+    padding-top: 3rem;
+    
+
+}
+
+.steps {
+    margin: 0;
+}
 }
