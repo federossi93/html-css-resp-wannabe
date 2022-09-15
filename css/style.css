@@ -147,10 +147,14 @@ img {
     
 }
 
-.card{
-    margin-top: 4rem;
-    margin-bottom: 4rem;
+.lessons .col:last-child .card{
+    padding-bottom: 3rem;
 }
+
+.card{
+    margin-top: 3rem;
+}
+
 
 .lessons .col {
     width: 100%;
