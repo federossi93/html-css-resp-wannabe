@@ -175,9 +175,22 @@ img {
     
 }
 
+.site-header{
+    background-color:#232946 ;
+    margin-top: 0;
+}
+
+.lessons{
+    background-color:#232946 ;
+}
+
 body{
-    background: rgb(35,41,70);
-background: linear-gradient(180deg, rgba(35,41,70,1) 0%, rgba(34,34,34,1) 100%);
+    background-color: #222222;
+}
+
+h1{
+    margin: 0;
+    padding: 3rem;
 }
 
 .why-us{
